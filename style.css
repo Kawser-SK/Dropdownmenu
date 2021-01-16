@@ -45,7 +45,7 @@ nav a {
 	display:block;
 	padding:10px 30px;	
 	color:#FFF;
-	font-size:21px;
+	font-size:20px;
 	text-decoration:none;
 }
 
@@ -94,7 +94,7 @@ nav ul ul ul li {
     position: relative;
     background-size: cover;
     background-position: center center;
-    background-image: url(/img/heder.jpg);
+    background-image: url(heder.jpg);
   }
   
   .overlay {
